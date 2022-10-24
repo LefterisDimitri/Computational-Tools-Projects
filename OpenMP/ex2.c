@@ -1,9 +1,3 @@
-/****************************************
- ***
- *** SQUARE Matrix Multiplication (serial)
- ***
- ****************************************/
-
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
